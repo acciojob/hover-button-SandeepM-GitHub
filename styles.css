@@ -1,9 +1,9 @@
 /* Your CSS Code here. */
 #btn{
-	Background-Colour: black;
-	font-color: white;
+	Background-colour: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	border-radius: 5px;
-	border: none;
+	border: none ;
 }
 
 #btn:hover{
